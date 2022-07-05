@@ -104,6 +104,5 @@ footer {
 #padlock {
     position: fixed;
     bottom: 0;
-    left: 10;
-    top: 72%;
+    left: 0;
 }
